@@ -1,0 +1,33 @@
+{
+  "name": "console-logger",
+  "version": "1.0.0",
+  "description": "A colorized winston console logger",
+  "main": "index.js",
+  "scripts": {
+    "test": "node_modules/.bin/mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/nisaacson/console-logger.git"
+  },
+  "keywords": [
+    "winston",
+    "console",
+    "colors",
+    "log",
+    "logger",
+    "logging"
+  ],
+  "author": "Noah Isaacson",
+  "license": "BSD",
+  "readmeFilename": "README.md",
+  "dependencies": {
+    "winston": "~0.6.2"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "devDependencies": {
+    "mocha": "~1.8.2"
+  }
+}
