@@ -1,5 +1,5 @@
 {
-  "name": "console-logger",
+  "name": "log-colors",
   "version": "1.0.0",
   "description": "A colorized winston console logger",
   "main": "index.js",
